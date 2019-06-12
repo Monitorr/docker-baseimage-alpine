@@ -1,5 +1,5 @@
 FROM scratch
-LABEL maintainer=christronyxyocum
+LABEL maintainer=jonfinley
 
 # Add Alpine rootfs
 ADD rootfs.tar.xz /
